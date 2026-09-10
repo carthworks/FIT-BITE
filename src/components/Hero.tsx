@@ -54,7 +54,7 @@ export function Hero() {
           <Reveal delay={160}>
             <p className="mx-auto mt-6 max-w-xl text-pretty text-base leading-relaxed text-ink/65 sm:text-lg lg:mx-0">
               Overnight oats, vibrant salad bowls and cold-pressed juices —
-              prepped fresh every morning and delivered chilled across Chennai.
+              prepped fresh every morning and delivered chilled in &amp; around Anna Nagar, Chennai.
               Real ingredients, generous portions, zero fuss.
             </p>
           </Reveal>

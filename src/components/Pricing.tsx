@@ -124,7 +124,7 @@ export function Pricing() {
 
         <Reveal delay={120}>
           <p className="mt-10 text-center text-sm font-medium text-ink/55">
-            All plans include chilled delivery across Chennai, seasonal menus and a
+            All plans include chilled doorstep delivery in &amp; around Anna Nagar, seasonal menus and a
             real human on WhatsApp. Need something bespoke?{" "}
             <a
               href={CONTACT.whatsapp}

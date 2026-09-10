@@ -1,6 +1,6 @@
 # 🥗 FIT BITE — Fresh, Healthy & Delicious
 
-A modern, high-converting landing page for **FIT BITE** (Chennai) — serving freshly prepared overnight oats, macro-balanced salad bowls, and cold-pressed juices delivered chilled across Chennai.
+A modern, high-converting landing page for **FIT BITE** (Anna Nagar, Chennai) — serving freshly prepared overnight oats, macro-balanced salad bowls, and cold-pressed juices delivered chilled in and around Anna Nagar, Chennai.
 
 Built with **React 19**, **TypeScript**, **Tailwind CSS v4**, and **Vite**.
 

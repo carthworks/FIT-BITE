@@ -21,8 +21,8 @@ export function Footer() {
             </div>
             <p className="mt-5 max-w-xs text-sm leading-relaxed text-white/60">
               Fresh, healthy &amp; delicious food made with care. Overnight oats,
-              salad bowls and cold-pressed juices — delivered chilled across
-              Chennai.
+              salad bowls and cold-pressed juices — delivered chilled in &amp; around
+              Anna Nagar, Chennai.
             </p>
             <div className="mt-6 flex items-center gap-3">
               <a
@@ -168,7 +168,7 @@ export function Footer() {
             mornings.
           </p>
           <p className="flex items-center gap-1.5">
-            Made with care in Chennai
+            Made with care in Anna Nagar, Chennai
             <span className="text-brand-400">🌿</span>
           </p>
         </div>

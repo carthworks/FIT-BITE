@@ -20,7 +20,7 @@ export function Testimonials() {
         <div className="mx-auto max-w-2xl text-center">
           <Reveal>
             <span className="inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/5 px-3.5 py-1.5 text-[0.68rem] font-bold uppercase tracking-[0.2em] text-brand-200 backdrop-blur">
-              Loved across Chennai
+              Loved in Anna Nagar, Chennai
             </span>
           </Reveal>
           <Reveal delay={80}>

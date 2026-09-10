@@ -14,7 +14,7 @@ export const CONTACT = {
   whatsapp: "https://wa.me/919962281824",
   instagram: "https://instagram.com/fit_bite_chennai",
   instagramHandle: "@fit_bite_chennai",
-  city: "Chennai, Tamil Nadu",
+  city: "Anna Nagar, Chennai",
 };
 
 export const STATS = [
@@ -38,7 +38,7 @@ export const FEATURES = [
   {
     icon: "Truck",
     title: "Chilled Doorstep Delivery",
-    copy: "Cold-chain packed and delivered across Chennai so your food lands crisp, cool and ready to enjoy.",
+    copy: "Cold-chain packed and delivered fresh around Anna Nagar so your food lands crisp, cool and ready to enjoy.",
   },
   {
     icon: "Heart",
@@ -224,7 +224,7 @@ export const PLANS = [
 export const FAQS = [
   {
     q: "Where do you deliver, and when?",
-    a: "FIT BITE delivers across Chennai with chilled packaging. Mornings are delivered before 8am and lunch slots between 12–1pm. Order before 9pm the previous day for next-morning delivery.",
+    a: "FIT BITE exclusively delivers in and around Anna Nagar, Chennai with chilled packaging. Mornings are delivered before 8am and lunch slots between 12–1pm. Order before 9pm the previous day for next-morning delivery.",
   },
   {
     q: "Is everything really made fresh?",
